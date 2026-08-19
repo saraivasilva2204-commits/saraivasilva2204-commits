@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111827,100:00E5FF&height=180&section=header&text=GUILHERME%20CONCEIÇÃO&fontSize=42&fontColor=00E5FF&animation=fadeIn&fontAlignY=35&desc=ANDROID%20DEVELOPER%20%7C%20JAVA%20%7C%20KOTLIN&descAlignY=58&descSize=16" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111827,100:00E5FF&height=200&section=header&text=GUILHERME%20CONCEIÇÃO&fontSize=42&fontColor=00E5FF&animation=fadeIn&fontAlignY=35&desc=ANDROID%20DEVELOPER%20%7C%20JAVA%20%7C%20KOTLIN&descAlignY=58&descSize=16" width="100%">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=SYSTEM+INITIALIZING...;SYSTEM+ONLINE;ANDROID+DEVELOPER;JAVA+%7C+KOTLIN;BUILDING+WITH+CODE" alt="Typing Animation">
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&logo=statuspage&logoColor=white">
 <img src="https://img.shields.io/badge/ANDROID-DEVELOPER-3DDC84?style=for-the-badge&logo=android&logoColor=white">
@@ -15,60 +15,35 @@
 
 ---
 
-## `> ABOUT_ME`
+## ⚡ ABOUT ME
 
 <div align="center">
 
-```text
-╔════════════════════════════════════════════════════════════╗
-║                    DEVELOPER PROFILE                      ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║  ROLE        :: Android Developer                          ║
-║  LANGUAGES   :: Java • Kotlin                              ║
-║  PLATFORM    :: Android                                    ║
-║  TOOLS       :: Android Studio • Git • GitHub              ║
-║  LOCATION    :: Brazil 🇧🇷                                 ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
+<h3>ANDROID DEVELOPER</h3>
+
+<p>
+Desenvolvedor focado no ecossistema <strong>Android</strong>, explorando
+<strong>Java</strong> e <strong>Kotlin</strong> para criação de aplicações.
+</p>
+
+<p>
+Interessado em desenvolvimento de software, interfaces, APIs,
+arquitetura de aplicações e novas tecnologias.
+</p>
+
+</div>
+
+---
+
+## 🧠 TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=androidstudio,android,kotlin,java,git,github,gradle&theme=dark">
 
 </div>
 
 <p align="center">
-  Desenvolvedor focado no ecossistema <strong>Android</strong>, explorando
-  <strong>Kotlin</strong> e <strong>Java</strong> para criação de aplicações.
-  <br>
-  Interessado em desenvolvimento de software, interfaces, APIs e novas tecnologias.
-</p>
-
-<div align="center">
-
-`LEARN` → `BUILD` → `TEST` → `IMPROVE` → `REPEAT`
-
-</div>
-
----
-
-## `> TECH_STACK`
-
-<div align="center">
-
-### ANDROID
-
-<img src="https://skillicons.dev/icons?i=androidstudio,android,kotlin,java&theme=dark">
-
-### DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=git,github,gradle&theme=dark">
-
-</div>
-
----
-
-## `> DEVELOPMENT_TOOLBOX`
-
-<div align="center">
 
 <img src="https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84">
 <img src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF">
@@ -77,11 +52,11 @@
 <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF">
 
-</div>
+</p>
 
 ---
 
-## `> FEATURED_PROJECTS`
+## 🚀 FEATURED PROJECTS
 
 <div align="center">
 
@@ -93,7 +68,7 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=saraivasilva2204-commits&repo=LinearLayout&theme=tokyonight&hide_border=true">
 </a>
 
-<br>
+<br><br>
 
 <a href="https://github.com/saraivasilva2204-commits/aplicativo_guilherme">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=saraivasilva2204-commits&repo=aplicativo_guilherme&theme=tokyonight&hide_border=true">
@@ -103,25 +78,34 @@
 
 ---
 
-## `> PROJECT_MATRIX`
+## 🖥️ SYSTEM PROFILE
 
 <div align="center">
 
-|          PROJECT         |  STATUS  |
-| :----------------------: | :------: |
-|       **API-login**      | `ACTIVE` |
-|     **LinearLayout**     | `ACTIVE` |
-| **aplicativo_guilherme** | `ACTIVE` |
+<pre>
+┌──────────────────────────────────────────────────────┐
+│              SARAIVA // ANDROID DEV                  │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  ROLE        :: Android Developer                    │
+│  LANGUAGES   :: Java • Kotlin                        │
+│  PLATFORM    :: Android                              │
+│  IDE         :: Android Studio                       │
+│  VERSIONING  :: Git / GitHub                         │
+│  STATUS      :: ONLINE                               │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+</pre>
 
 </div>
 
 ---
 
-## `> CURRENT_MISSION`
+## 🎯 CURRENT MISSION
 
 <div align="center">
 
-```text
+<pre>
 ┌──[ saraiva@android-dev ]──[ ~/mission-control ]
 │
 ├─ $ whoami
@@ -140,15 +124,18 @@
 │  ├─ APIs
 │  └─ Software Engineering
 │
+├─ $ next_target
+│  └─ Build better applications
+│
 └─ $ status
-   └─ ONLINE ████████████████████
-```
+   └─ ONLINE ████████████████████ 100%
+</pre>
 
 </div>
 
 ---
 
-## `> GITHUB_ANALYTICS`
+## 📊 GITHUB ANALYTICS
 
 <div align="center">
 
@@ -168,7 +155,7 @@
 
 ---
 
-## `> ACTIVITY_GRAPH`
+## 📈 ACTIVITY GRAPH
 
 <div align="center">
 
@@ -178,7 +165,7 @@
 
 ---
 
-## `> GITHUB_TROPHIES`
+## 🏆 GITHUB TROPHIES
 
 <div align="center">
 
@@ -188,7 +175,7 @@
 
 ---
 
-## `> CONTRIBUTION_MATRIX`
+## 🐍 CONTRIBUTION MATRIX
 
 <div align="center">
 
@@ -198,7 +185,7 @@
 
 ---
 
-## `> CONNECT`
+## 🌐 CONNECT
 
 <div align="center">
 
@@ -212,17 +199,11 @@
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║              SYSTEM STATUS: ONLINE                  ║
-║                                                      ║
-║          JAVA • KOTLIN • ANDROID • CODE             ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
+<h3>⚡ SYSTEM STATUS: ONLINE</h3>
 
-### `BUILD. LEARN. EVOLVE.`
+<p>
+<strong>JAVA • KOTLIN • ANDROID • CODE</strong>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:7F52FF,100:00E5FF&height=100&section=footer" width="100%">
 
