@@ -1,39 +1,120 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,100:161B22&text=Guilherme%20Concei%C3%A7%C3%A3o&fontColor=39FF14&fontSize=40&fontAlignY=38&desc=Backend%20Developer&descAlignY=59&descSize=17&descColor=FFFFFF" alt="Guilherme Conceição — Backend Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=210&color=0:052E16,50:15803D,100:4ADE80&text=Guilherme%20Concei%C3%A7%C3%A3o&fontColor=FFFFFF&fontSize=42&fontAlignY=42&desc=BACKEND%20%E2%80%A2%20JAVA%20%E2%80%A2%20KOTLIN%20%E2%80%A2%20SPRING%20BOOT&descAlignY=65&descSize=15&descColor=FFFFFF" alt="Guilherme Conceição — Backend Developer" />
 
 </div>
 
-## Sobre mim
+<table>
+<tr>
+<td width="58%" valign="top">
 
-Desenvolvedor em formação com foco em **backend**, utilizando **Java**, **Kotlin** e **Spring Boot**.
+## Olá, eu sou o Guilherme 👋
 
-Tenho interesse em APIs REST, regras de negócio, bancos de dados e organização de aplicações. Utilizo o **IntelliJ IDEA** como IDE principal e o Android Studio apenas como ferramenta em projetos acadêmicos.
+Desenvolvedor em formação direcionado ao **backend**.
 
-## Linguagens
+Gosto de transformar regras de negócio em aplicações organizadas, trabalhando principalmente com **Java**, **Kotlin** e **Spring Boot**.
+
+Meu interesse está em APIs REST, persistência de dados e arquitetura de software.
+
+</td>
+<td width="42%" valign="top">
+
+## Perfil rápido
+
+```yaml
+área: Backend
+linguagens:
+  - Java
+  - Kotlin
+framework: Spring Boot
+ide_principal: IntelliJ IDEA
+```
+
+</td>
+</tr>
+</table>
+
+<br />
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,kotlin" alt="Java e Kotlin" />
+## Meu núcleo backend
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,spring&theme=dark" alt="Java, Kotlin e Spring Boot" />
+
+<sub>Java · Kotlin · Spring Boot</sub>
 
 </div>
 
-## Framework e ferramentas
+<br />
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+### Ambiente principal
+
+<img src="https://skillicons.dev/icons?i=idea,gradle&theme=dark" alt="IntelliJ IDEA e Gradle" />
+
+<br />
+
+**IntelliJ IDEA** para desenvolvimento  
+**Gradle** para automação de builds
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### Outras ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,androidstudio&theme=dark" alt="Git, GitHub e Android Studio" />
+
+<br />
+
+**Git e GitHub** para versionamento  
+**Android Studio** em projetos acadêmicos
+
+</td>
+</tr>
+</table>
+
+## Projetos em destaque
+
+<table>
+<tr>
+<td width="34%" valign="top">
+
+### 🔐 API Login
+
+Autenticação e lógica de backend.
+
+[Explorar projeto →](https://github.com/saraivasilva2204-commits/API-login)
+
+</td>
+<td width="33%" valign="top">
+
+### 📐 LinearLayout
+
+Experiência acadêmica com interfaces.
+
+[Explorar projeto →](https://github.com/saraivasilva2204-commits/LinearLayout)
+
+</td>
+<td width="33%" valign="top">
+
+### 📱 Aplicativo Guilherme
+
+Projeto acadêmico desenvolvido como parte dos estudos.
+
+[Explorar projeto →](https://github.com/saraivasilva2204-commits/aplicativo_guilherme)
+
+</td>
+</tr>
+</table>
+
+<br />
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=spring,idea,androidstudio,gradle,git,github&theme=dark" alt="Spring Boot, IntelliJ IDEA, Android Studio, Gradle, Git e GitHub" />
-
-</div>
-
-## Projetos
-
-- [API Login](https://github.com/saraivasilva2204-commits/API-login) — projeto com foco em autenticação e lógica de backend.
-- [LinearLayout](https://github.com/saraivasilva2204-commits/LinearLayout) — projeto acadêmico.
-- [Aplicativo Guilherme](https://github.com/saraivasilva2204-commits/aplicativo_guilherme) — projeto acadêmico.
-
-<div align="center">
-
-<sub>Backend • Java • Kotlin • Spring Boot</sub>
+<sub>Construindo minha trajetória no backend, um projeto de cada vez.</sub>
 
 </div>
