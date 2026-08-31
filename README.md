@@ -1,38 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=210&color=0:052E16,50:15803D,100:4ADE80&text=Guilherme%20Concei%C3%A7%C3%A3o&fontColor=FFFFFF&fontSize=42&fontAlignY=42&desc=BACKEND%20%E2%80%A2%20JAVA%20%E2%80%A2%20KOTLIN%20%E2%80%A2%20SPRING%20BOOT&descAlignY=65&descSize=15&descColor=FFFFFF" alt="Guilherme Conceição — Backend Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:052E16,45:16A34A,70:4ADE80,100:052E16&text=Guilherme%20Concei%C3%A7%C3%A3o&fontColor=FFFFFF&fontSize=43&fontAlignY=46&stroke=39FF14&strokeWidth=1&animation=fadeIn" alt="Guilherme Conceição" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=700&color=39FF14&center=true&vCenter=true&repeat=true&width=620&height=45&lines=%E2%9A%A1+BACKEND+DEVELOPER;%E2%98%95+JAVA+%E2%80%A2+KOTLIN+%E2%80%A2+SPRING+BOOT;%F0%9F%94%8C+APIs+%E2%80%A2+REGRAS+DE+NEG%C3%93CIO+%E2%80%A2+DADOS" alt="Animação com foco profissional" />
 
 </div>
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-## Olá, eu sou o Guilherme 👋
-
-Desenvolvedor em formação direcionado ao **backend**.
-
-Gosto de transformar regras de negócio em aplicações organizadas, trabalhando principalmente com **Java**, **Kotlin** e **Spring Boot**.
-
-Meu interesse está em APIs REST, persistência de dados e arquitetura de software.
-
-</td>
-<td width="42%" valign="top">
-
-## Perfil rápido
-
-```yaml
-área: Backend
-linguagens:
-  - Java
-  - Kotlin
-framework: Spring Boot
-ide_principal: IntelliJ IDEA
-```
-
-</td>
-</tr>
-</table>
 
 <br />
 
